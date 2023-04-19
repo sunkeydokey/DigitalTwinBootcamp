@@ -1,0 +1,76 @@
+// 1 객체 생성
+const myDog = {
+  // Only change code below this line
+  name: 'Bob',
+  legs: 4,
+  tails: 1,
+  friends: ['Cherry', 'Lulu'],
+
+  // Only change code above this line
+};
+
+// 2 객체 수정
+let userActivity = {
+  id: 23894201352,
+  date: 'January 1, 2017',
+  data: {
+    totalUsers: 51,
+    online: 42,
+  },
+};
+
+// Only change code below this line
+userActivity.data.online = 45;
+// Only change code above this line
+
+console.log(userActivity);
+
+// 3 filter, map, reduce
+// The global variable
+const watchList = [...
+];
+
+function getRating(watchList) {
+  // Only change code below this line
+  let averageRating;
+
+  const nolanMovie = watchList.filter(
+    (movie) => movie.Director === 'Christopher Nolan'
+  );
+
+  const totalRating = nolanMovie.reduce((acc, cur, i, arr) => {
+    return acc + parseFloat(cur.imdbRating);
+  }, 0);
+
+  averageRating = totalRating / nolanMovie.length;
+
+  // Only change code above this line
+  return averageRating;
+}
+
+console.log(getRating(watchList));
+
+// 4 반복문과 제어문을 통한 push 사용
+function filteredArray(arr, elem) {
+  let newArr = [];
+  // Only change code below this line
+  for (let i = 0; i < arr.length; i++) {
+    if (!arr[i].includes(elem)) {
+      newArr.push(arr[i]);
+    }
+  }
+  // Only change code above this line
+  return newArr;
+}
+
+console.log(
+  filteredArray(
+    [
+      [3, 2, 3],
+      [1, 6, 3],
+      [3, 13, 26],
+      [19, 3, 9],
+    ],
+    3
+  )
+);
