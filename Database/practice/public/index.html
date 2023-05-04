@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="./src/baseball.js" defer></script>
+    <title>숫자야구게임</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1></h1>
+      <ul id="records"></ul>
+      <form>
+        <input minlength="4" maxlength="4" />
+        <div class="buttons">
+          <button type="submit" id="inputButton"></button>
+          <button id="resetButton"></button>
+          <button id="hintButton"></button>
+        </div>
+      </form>
+      <div class="container">
+        <p id="times"></p>
+        <div id="hint"></div>
+      </div>
+    </div>
+    <div class="input-container">
+      <form id="input" action="/input" method="POST">
+        <input type="text" name="textInput" id="textInput" />
+        <button>전송</button>
+      </form>
+    </div>
+  </body>
+</html>
