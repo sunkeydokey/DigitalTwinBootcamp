@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  display: flex;
+  max-width: 80vh;
+  flex-direction: row;
+}
+
+input {
+  width: 80px;
+  height: 60px;
+  margin-bottom: 12px;
+  font-size: 60px;
+  text-align: center;
+}
+
+.btn {
+  width: 80px;
+  height: 60px;
+}
