@@ -1,0 +1,440 @@
+2023-05-22 10:37:44.386[info] app start
+2023-05-22 10:38:57.129[info] app start
+2023-05-22 10:39:20.572[error] This message is error
+2023-05-22 10:39:20.574[warn] This message is warn
+2023-05-22 10:39:20.574[info] This message is info
+2023-05-22 10:39:20.575[verbose] This message is verbose
+2023-05-22 10:39:20.575[debug] This message is debug
+2023-05-22 10:41:23.600[info] app start
+2023-05-22 10:41:46.718[error] This message is error
+2023-05-22 10:41:46.718[warn] This message is warn
+2023-05-22 10:41:46.719[info] This message is info
+2023-05-22 10:41:46.719[verbose] This message is verbose
+2023-05-22 10:41:46.720[debug] This message is debug
+2023-05-22 11:09:36.410[info] app start
+2023-05-22 11:10:00.201[info] app start
+2023-05-22 11:25:18.965[info] app start
+2023-05-22 11:30:12.583[info] app start
+2023-05-22 11:30:30.457[info] Mon May 22 2023 11:30:30 GMT+0900 (대한민국 표준시)
+2023-05-22 11:31:51.820[info] app start
+2023-05-22 11:34:49.963[info] app start
+2023-05-22 11:34:54.790[info] app start
+2023-05-22 11:35:00.260[info] app start
+2023-05-22 11:35:07.874[info] app start
+2023-05-22 11:35:16.980[info] app start
+2023-05-22 11:35:30.713[info] app start
+2023-05-22 11:35:31.718[info] 2023 4
+2023-05-22 11:35:57.826[info] app start
+2023-05-22 11:36:12.689[info] app start
+2023-05-22 11:36:13.647[info] 2023년 4월 22일
+2023-05-22 11:36:18.694[info] app start
+2023-05-22 11:36:18.806[info] app start
+2023-05-22 11:36:19.798[info] 2023년 4월 22일
+2023-05-22 11:36:25.805[info] app start
+2023-05-22 11:36:25.936[info] app start
+2023-05-22 11:36:27.175[info] 2023년 4월 22일
+2023-05-22 11:37:32.216[info] app start
+2023-05-22 11:38:38.975[info] app start
+2023-05-22 11:38:51.379[info] app start
+2023-05-22 11:41:01.207[info] app start
+2023-05-22 13:05:22.457[info] app start
+2023-05-22 13:06:27.978[info] app start
+2023-05-22 13:07:30.521[info] app start
+2023-05-22 13:07:33.492[info] {"numA":13,"numB":132,"result":145}
+2023-05-22 13:10:25.478[info] {"numA":13,"numB":132,"result":145}
+2023-05-22 13:11:39.924[info] app start
+2023-05-22 13:14:04.440[info] app start
+2023-05-22 13:14:32.819[info] app start
+2023-05-22 13:14:50.597[info] app start
+2023-05-22 13:15:33.680[info] app start
+2023-05-22 13:17:05.320[info] app start
+2023-05-22 13:17:34.202[info] app start
+2023-05-22 13:17:43.646[info] app start
+2023-05-22 13:18:05.368[info] app start
+2023-05-22 13:18:37.554[info] app start
+2023-05-22 13:19:55.916[info] app start
+2023-05-22 13:20:41.779[info] app start
+2023-05-22 13:20:41.798[error] DB connection failed
+2023-05-22 13:20:48.623[info] app start
+2023-05-22 13:20:48.640[error] DB connection failed connect ECONNREFUSED ::1:3306
+2023-05-22 13:23:11.505[info] app start
+2023-05-22 13:23:11.532[error] DB connection failed connect ECONNREFUSED ::1:3306
+2023-05-22 13:24:16.367[info] app start
+2023-05-22 13:24:16.392[error] DB connection failed connect ECONNREFUSED ::1:3306
+2023-05-22 13:25:55.275[info] app start
+2023-05-22 13:25:55.301[error] DB connection failed connect ECONNREFUSED ::1:3306
+2023-05-22 13:26:20.606[info] app start
+2023-05-22 13:26:20.643[info] sequelize sync successed
+2023-05-22 13:37:25.504[info] app start
+2023-05-22 13:37:25.540[info] sequelize sync successed
+2023-05-22 13:37:32.704[info] app start
+2023-05-22 13:37:32.732[info] sequelize sync successed
+2023-05-22 13:37:50.733[info] app start
+2023-05-22 13:37:50.781[info] sequelize sync successed
+2023-05-22 13:40:31.018[info] app start
+2023-05-22 13:40:31.044[info] DB connection success
+2023-05-22 13:40:31.052[info] Sequelize sync success
+2023-05-22 14:06:01.580[info] {"numA":13,"numB":132,"result":145}
+2023-05-22 14:16:06.367[info] app start
+2023-05-22 14:16:06.407[info] DB connection success
+2023-05-22 14:16:06.411[info] Sequelize sync success
+2023-05-22 14:18:27.645[info] app start
+2023-05-22 14:18:27.677[info] DB connection success
+2023-05-22 14:18:27.696[info] Sequelize sync success
+2023-05-22 14:33:37.935[info] app start
+2023-05-22 14:33:37.972[info] DB connection success
+2023-05-22 14:33:37.977[info] Sequelize sync success
+2023-05-22 14:35:04.802[info] app start
+2023-05-22 14:35:04.834[info] DB connection success
+2023-05-22 14:35:04.840[info] Sequelize sync success
+2023-05-22 14:40:03.241[info] app start
+2023-05-22 14:40:03.276[info] DB connection success
+2023-05-22 14:40:03.282[info] Sequelize sync success
+2023-05-22 14:40:33.093[info] app start
+2023-05-22 14:40:33.120[info] DB connection success
+2023-05-22 14:40:33.126[info] Sequelize sync success
+2023-05-22 14:40:34.095[info] app start
+2023-05-22 14:40:34.123[info] DB connection success
+2023-05-22 14:40:34.128[info] Sequelize sync success
+2023-05-22 14:40:34.673[info] app start
+2023-05-22 14:40:34.702[info] DB connection success
+2023-05-22 14:40:34.707[info] Sequelize sync success
+2023-05-22 14:40:46.341[info] app start
+2023-05-22 14:40:46.370[info] DB connection success
+2023-05-22 14:40:46.389[info] Sequelize sync success
+2023-05-22 14:42:15.844[info] app start
+2023-05-22 14:42:15.872[info] DB connection success
+2023-05-22 14:42:15.877[info] Sequelize sync success
+2023-05-22 14:45:02.838[info] app start
+2023-05-22 14:45:02.866[info] DB connection success
+2023-05-22 14:45:02.871[info] Sequelize sync success
+2023-05-22 14:45:12.421[info] app start
+2023-05-22 14:45:12.450[info] DB connection success
+2023-05-22 14:45:12.455[info] Sequelize sync success
+2023-05-22 14:45:31.428[info] app start
+2023-05-22 14:45:31.454[info] DB connection success
+2023-05-22 14:45:31.459[info] Sequelize sync success
+2023-05-22 14:45:37.362[info] app start
+2023-05-22 14:45:37.388[info] DB connection success
+2023-05-22 14:45:37.392[info] Sequelize sync success
+2023-05-22 14:45:43.264[info] app start
+2023-05-22 14:45:43.291[info] DB connection success
+2023-05-22 14:45:43.296[info] Sequelize sync success
+2023-05-22 14:45:44.019[info] app start
+2023-05-22 14:45:44.048[info] DB connection success
+2023-05-22 14:45:44.054[info] Sequelize sync success
+2023-05-22 14:45:44.321[info] app start
+2023-05-22 14:45:44.349[info] DB connection success
+2023-05-22 14:45:44.354[info] Sequelize sync success
+2023-05-22 14:45:45.010[info] app start
+2023-05-22 14:45:45.038[info] DB connection success
+2023-05-22 14:45:45.044[info] Sequelize sync success
+2023-05-22 14:45:45.588[info] app start
+2023-05-22 14:45:45.616[info] DB connection success
+2023-05-22 14:45:45.622[info] Sequelize sync success
+2023-05-22 14:45:46.048[info] app start
+2023-05-22 14:45:46.075[info] DB connection success
+2023-05-22 14:45:46.081[info] Sequelize sync success
+2023-05-22 14:45:46.302[info] app start
+2023-05-22 14:45:46.327[info] DB connection success
+2023-05-22 14:45:46.332[info] Sequelize sync success
+2023-05-22 14:45:47.080[info] app start
+2023-05-22 14:45:47.118[info] DB connection success
+2023-05-22 14:45:47.124[info] Sequelize sync success
+2023-05-22 14:45:47.728[info] app start
+2023-05-22 14:45:47.754[info] DB connection success
+2023-05-22 14:45:47.759[info] Sequelize sync success
+2023-05-22 14:45:48.259[info] app start
+2023-05-22 14:45:48.300[info] DB connection success
+2023-05-22 14:45:48.308[info] Sequelize sync success
+2023-05-22 14:45:48.519[info] app start
+2023-05-22 14:45:48.544[info] DB connection success
+2023-05-22 14:45:48.550[info] Sequelize sync success
+2023-05-22 14:45:49.009[info] app start
+2023-05-22 14:45:49.037[info] DB connection success
+2023-05-22 14:45:49.043[info] Sequelize sync success
+2023-05-22 14:45:49.293[info] app start
+2023-05-22 14:45:49.318[info] DB connection success
+2023-05-22 14:45:49.323[info] Sequelize sync success
+2023-05-22 14:45:50.001[info] app start
+2023-05-22 14:45:50.029[info] DB connection success
+2023-05-22 14:45:50.034[info] Sequelize sync success
+2023-05-22 15:08:02.910[info] app start
+2023-05-22 15:08:02.945[info] DB connection success
+2023-05-22 15:08:02.949[info] Sequelize sync success
+2023-05-22 15:08:22.777[info] app start
+2023-05-22 15:08:22.803[info] DB connection success
+2023-05-22 15:08:22.808[info] Sequelize sync success
+2023-05-22 15:10:25.096[info] app start
+2023-05-22 15:10:25.130[info] DB connection success
+2023-05-22 15:10:25.135[info] Sequelize sync success
+2023-05-22 15:10:35.843[info] app start
+2023-05-22 15:10:35.870[info] DB connection success
+2023-05-22 15:10:35.875[info] Sequelize sync success
+2023-05-22 15:11:12.574[info] app start
+2023-05-22 15:11:12.601[info] DB connection success
+2023-05-22 15:11:12.606[info] Sequelize sync success
+2023-05-22 15:13:10.572[info] app start
+2023-05-22 15:13:10.608[info] DB connection success
+2023-05-22 15:13:10.613[info] Sequelize sync success
+2023-05-22 15:13:19.524[info] app start
+2023-05-22 15:13:19.553[info] DB connection success
+2023-05-22 15:13:19.558[info] Sequelize sync success
+2023-05-22 15:21:02.263[info] app start
+2023-05-22 15:21:02.302[info] DB connection success
+2023-05-22 15:21:02.309[info] Sequelize sync success
+2023-05-22 15:21:16.611[info] app start
+2023-05-22 15:21:16.646[info] DB connection success
+2023-05-22 15:21:16.651[info] Sequelize sync success
+2023-05-22 15:21:48.200[info] app start
+2023-05-22 15:21:48.227[info] DB connection success
+2023-05-22 15:21:48.233[info] Sequelize sync success
+2023-05-22 15:22:06.060[info] app start
+2023-05-22 15:22:06.095[info] DB connection success
+2023-05-22 15:22:06.103[info] Sequelize sync success
+2023-05-22 15:22:15.736[info] app start
+2023-05-22 15:22:15.768[info] DB connection success
+2023-05-22 15:22:15.774[info] Sequelize sync success
+2023-05-22 15:22:18.965[info] app start
+2023-05-22 15:22:18.992[info] DB connection success
+2023-05-22 15:22:18.999[info] Sequelize sync success
+2023-05-22 15:23:41.874[info] app start
+2023-05-22 15:23:41.903[info] DB connection success
+2023-05-22 15:23:41.909[info] Sequelize sync success
+2023-05-22 15:25:20.653[info] app start
+2023-05-22 15:25:20.689[info] DB connection success
+2023-05-22 15:25:20.695[info] Sequelize sync success
+2023-05-22 15:25:26.361[info] app start
+2023-05-22 15:25:26.393[info] DB connection success
+2023-05-22 15:25:26.400[info] Sequelize sync success
+2023-05-22 15:25:40.815[info] app start
+2023-05-22 15:25:40.847[info] DB connection success
+2023-05-22 15:25:40.852[info] Sequelize sync success
+2023-05-22 15:26:00.579[info] app start
+2023-05-22 15:26:00.616[info] DB connection success
+2023-05-22 15:26:00.622[info] Sequelize sync success
+2023-05-22 15:37:38.423[info] (department.reg.params) {}
+2023-05-22 15:40:42.644[info] app start
+2023-05-22 15:40:42.683[info] DB connection success
+2023-05-22 15:40:42.690[info] Sequelize sync success
+2023-05-22 15:40:45.626[info] (department.reg.params) {}
+2023-05-22 15:42:17.312[info] app start
+2023-05-22 15:42:17.349[info] DB connection success
+2023-05-22 15:42:17.355[info] Sequelize sync success
+2023-05-22 15:42:27.658[info] (department.reg.params) {}
+2023-05-22 15:42:45.249[info] app start
+2023-05-22 15:42:45.277[info] DB connection success
+2023-05-22 15:42:45.281[info] Sequelize sync success
+2023-05-22 15:44:10.468[info] app start
+2023-05-22 15:44:10.506[info] DB connection success
+2023-05-22 15:44:10.511[info] Sequelize sync success
+2023-05-22 15:44:18.505[info] (department.reg.params) {}
+2023-05-22 15:45:50.698[info] app start
+2023-05-22 15:45:50.726[info] DB connection success
+2023-05-22 15:45:50.732[info] Sequelize sync success
+2023-05-22 15:47:00.736[info] (department.reg.params) {}
+2023-05-22 15:48:32.420[info] app start
+2023-05-22 15:48:32.456[info] DB connection success
+2023-05-22 15:48:32.462[info] Sequelize sync success
+2023-05-22 15:48:36.259[info] app start
+2023-05-22 15:48:36.287[info] DB connection success
+2023-05-22 15:48:36.292[info] Sequelize sync success
+2023-05-22 15:49:30.933[info] app start
+2023-05-22 15:49:30.960[info] DB connection success
+2023-05-22 15:49:30.967[info] Sequelize sync success
+2023-05-22 15:49:34.067[info] app start
+2023-05-22 15:49:34.110[info] DB connection success
+2023-05-22 15:49:34.117[info] Sequelize sync success
+2023-05-22 15:49:37.175[info] (department.reg.params) {}
+2023-05-22 15:49:41.104[info] app start
+2023-05-22 15:49:41.132[info] DB connection success
+2023-05-22 15:49:41.137[info] Sequelize sync success
+2023-05-22 15:54:59.927[info] app start
+2023-05-22 15:54:59.966[info] DB connection success
+2023-05-22 15:54:59.971[info] Sequelize sync success
+2023-05-22 15:55:06.828[info] (department.reg.params) {}
+2023-05-22 15:55:30.533[info] app start
+2023-05-22 15:55:30.561[info] DB connection success
+2023-05-22 15:55:30.566[info] Sequelize sync success
+2023-05-22 15:55:32.836[info] (department.reg.params) {"name":"개발팀12","code":"dev"}
+2023-05-22 15:55:32.847[debug] (departmentService.reg) {"id":1,"name":"개발팀12","code":"dev","updatedAt":"2023-05-22T06:55:32.839Z","createdAt":"2023-05-22T06:55:32.839Z"}
+2023-05-22 15:55:32.848[info] (department.reg.result) {"id":1,"name":"개발팀12","code":"dev","updatedAt":"2023-05-22T06:55:32.839Z","createdAt":"2023-05-22T06:55:32.839Z"}
+2023-05-22 16:04:36.182[info] (department.reg.params) {"name":"개발팀","code":"dev"}
+2023-05-22 16:04:36.192[debug] (departmentService.reg) {"id":2,"name":"개발팀","code":"dev","updatedAt":"2023-05-22T07:04:36.183Z","createdAt":"2023-05-22T07:04:36.183Z"}
+2023-05-22 16:04:36.193[info] (department.reg.result) {"id":2,"name":"개발팀","code":"dev","updatedAt":"2023-05-22T07:04:36.183Z","createdAt":"2023-05-22T07:04:36.183Z"}
+2023-05-22 16:08:28.108[info] app start
+2023-05-22 16:08:28.149[info] DB connection success
+2023-05-22 16:08:28.156[info] Sequelize sync success
+2023-05-22 16:14:06.562[info] app start
+2023-05-22 16:14:06.599[info] DB connection success
+2023-05-22 16:14:06.606[info] Sequelize sync success
+2023-05-22 16:15:00.616[info] app start
+2023-05-22 16:15:00.644[info] DB connection success
+2023-05-22 16:15:00.649[info] Sequelize sync success
+2023-05-22 16:15:17.645[info] app start
+2023-05-22 16:15:17.674[info] DB connection success
+2023-05-22 16:15:17.679[info] Sequelize sync success
+2023-05-22 16:15:28.141[info] app start
+2023-05-22 16:15:28.167[info] DB connection success
+2023-05-22 16:15:28.173[info] Sequelize sync success
+2023-05-22 16:15:53.925[info] app start
+2023-05-22 16:15:53.954[info] DB connection success
+2023-05-22 16:15:53.959[info] Sequelize sync success
+2023-05-22 16:18:48.053[info] app start
+2023-05-22 16:18:48.078[info] DB connection success
+2023-05-22 16:18:48.084[info] Sequelize sync success
+2023-05-22 16:20:35.575[info] app start
+2023-05-22 16:20:35.603[info] DB connection success
+2023-05-22 16:20:35.610[info] Sequelize sync success
+2023-05-22 16:21:17.039[info] app start
+2023-05-22 16:21:17.065[info] DB connection success
+2023-05-22 16:21:17.070[info] Sequelize sync success
+2023-05-22 16:21:24.629[info] app start
+2023-05-22 16:21:24.655[info] DB connection success
+2023-05-22 16:21:24.660[info] Sequelize sync success
+2023-05-22 16:24:51.447[info] app start
+2023-05-22 16:24:51.487[info] DB connection success
+2023-05-22 16:24:51.492[info] Sequelize sync success
+2023-05-22 16:25:03.423[info] app start
+2023-05-22 16:25:03.449[info] DB connection success
+2023-05-22 16:25:03.454[info] Sequelize sync success
+2023-05-22 16:25:26.745[info] app start
+2023-05-22 16:25:26.773[info] DB connection success
+2023-05-22 16:25:26.778[info] Sequelize sync success
+2023-05-22 16:25:54.008[info] app start
+2023-05-22 16:25:54.036[info] DB connection success
+2023-05-22 16:25:54.042[info] Sequelize sync success
+2023-05-22 16:26:37.120[info] (department.list.params) {"id":"1"}
+2023-05-22 16:26:37.132[debug] (departmentService.reg) {"count":1,"rows":[{"id":1,"name":"개발팀12","code":"dev","description":null,"createdAt":"2023-05-22T06:55:32.000Z","updatedAt":"2023-05-22T06:55:32.000Z","deletedAt":null}]}
+2023-05-22 16:27:39.101[info] (department.list.params) {"name":"개발"}
+2023-05-22 16:27:39.112[debug] (departmentService.reg) {"count":0,"rows":[]}
+2023-05-22 16:27:45.056[info] (department.list.params) {"name":"개"}
+2023-05-22 16:27:45.062[debug] (departmentService.reg) {"count":0,"rows":[]}
+2023-05-22 16:27:55.288[info] (department.list.params) {"name":"개발"}
+2023-05-22 16:27:55.293[debug] (departmentService.reg) {"count":0,"rows":[]}
+2023-05-22 16:28:14.580[info] (department.list.params) {"name":"개발","id":"1"}
+2023-05-22 16:28:14.594[debug] (departmentService.reg) {"count":0,"rows":[]}
+2023-05-22 16:28:18.314[info] (department.list.params) {"name":"","id":"1"}
+2023-05-22 16:28:18.318[debug] (departmentService.reg) {"count":1,"rows":[{"id":1,"name":"개발팀12","code":"dev","description":null,"createdAt":"2023-05-22T06:55:32.000Z","updatedAt":"2023-05-22T06:55:32.000Z","deletedAt":null}]}
+2023-05-22 16:32:56.994[info] app start
+2023-05-22 16:32:57.032[info] DB connection success
+2023-05-22 16:32:57.038[info] Sequelize sync success
+2023-05-22 16:33:14.724[info] app start
+2023-05-22 16:33:14.756[info] DB connection success
+2023-05-22 16:33:14.762[info] Sequelize sync success
+2023-05-22 16:33:24.081[info] (department.list.params) {"name":"개","id":"1"}
+2023-05-22 16:33:24.088[debug] (departmentService.reg) {"count":0,"rows":[]}
+2023-05-22 16:33:27.532[info] (department.list.params) {"name":"개"}
+2023-05-22 16:33:27.540[debug] (departmentService.reg) {"count":0,"rows":[]}
+2023-05-22 16:33:59.911[info] app start
+2023-05-22 16:33:59.946[info] DB connection success
+2023-05-22 16:33:59.952[info] Sequelize sync success
+2023-05-22 16:34:23.146[info] app start
+2023-05-22 16:34:23.173[info] DB connection success
+2023-05-22 16:34:23.177[info] Sequelize sync success
+2023-05-22 16:34:26.397[info] (department.list.params) {"name":"개"}
+2023-05-22 16:34:26.407[debug] (departmentService.reg) {"count":2,"rows":[{"id":2,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-22T07:04:36.000Z","updatedAt":"2023-05-22T07:04:36.000Z","deletedAt":null},{"id":1,"name":"개발팀12","code":"dev","description":null,"createdAt":"2023-05-22T06:55:32.000Z","updatedAt":"2023-05-22T06:55:32.000Z","deletedAt":null}]}
+2023-05-22 16:36:10.365[info] app start
+2023-05-22 16:36:10.402[info] DB connection success
+2023-05-22 16:36:10.406[info] Sequelize sync success
+2023-05-22 16:37:01.028[info] app start
+2023-05-22 16:37:01.067[info] DB connection success
+2023-05-22 16:37:01.072[info] Sequelize sync success
+2023-05-22 16:37:49.167[info] app start
+2023-05-22 16:37:49.202[info] DB connection success
+2023-05-22 16:37:49.208[info] Sequelize sync success
+2023-05-22 16:38:28.451[info] (department.list.params) {"id":["1","2"]}
+2023-05-22 16:38:28.455[error] (departmentService.reg) TypeError: value.map is not a function
+2023-05-22 16:39:19.119[info] app start
+2023-05-22 16:39:19.156[info] DB connection success
+2023-05-22 16:39:19.161[info] Sequelize sync success
+2023-05-22 16:39:28.592[info] app start
+2023-05-22 16:39:28.619[info] DB connection success
+2023-05-22 16:39:28.625[info] Sequelize sync success
+2023-05-22 16:39:34.035[info] (department.list.params) {"id":"1,2"}
+2023-05-22 16:39:34.039[error] (departmentService.reg) TypeError: value.map is not a function
+2023-05-22 16:39:40.864[info] app start
+2023-05-22 16:39:40.891[info] DB connection success
+2023-05-22 16:39:40.897[info] Sequelize sync success
+2023-05-22 16:39:43.232[info] (department.list.params) {"id":"1,2"}
+2023-05-22 16:39:43.236[error] (departmentService.reg) TypeError: value.map is not a function
+2023-05-22 16:39:54.455[info] app start
+2023-05-22 16:39:54.482[info] DB connection success
+2023-05-22 16:39:54.487[info] Sequelize sync success
+2023-05-22 16:39:59.897[info] app start
+2023-05-22 16:39:59.924[info] DB connection success
+2023-05-22 16:39:59.930[info] Sequelize sync success
+2023-05-22 16:40:02.151[info] (department.list.params) {"id":["1","2"]}
+2023-05-22 16:40:02.155[error] (departmentService.reg) TypeError: value.map is not a function
+2023-05-22 16:40:09.705[info] app start
+2023-05-22 16:40:09.735[info] DB connection success
+2023-05-22 16:40:09.740[info] Sequelize sync success
+2023-05-22 16:40:26.651[info] app start
+2023-05-22 16:40:26.678[info] DB connection success
+2023-05-22 16:40:26.682[info] Sequelize sync success
+2023-05-22 16:40:28.984[info] (department.list.params) {"id":"1,2"}
+2023-05-22 16:40:28.995[debug] (departmentService.reg) {"count":1,"rows":[{"id":1,"name":"개발팀12","code":"dev","description":null,"createdAt":"2023-05-22T06:55:32.000Z","updatedAt":"2023-05-22T06:55:32.000Z","deletedAt":null}]}
+2023-05-22 16:41:48.275[info] app start
+2023-05-22 16:41:48.310[info] DB connection success
+2023-05-22 16:41:48.316[info] Sequelize sync success
+2023-05-22 16:41:53.621[info] (department.list.params) {"id":"1"}
+2023-05-22 16:41:53.630[debug] (departmentService.reg) {"count":1,"rows":[{"id":1,"name":"개발팀12","code":"dev","createdAt":"2023-05-22T06:55:32.000Z","updatedAt":"2023-05-22T06:55:32.000Z","deletedAt":null}]}
+2023-05-22 16:44:40.402[info] app start
+2023-05-22 16:44:40.440[info] DB connection success
+2023-05-22 16:44:40.445[info] Sequelize sync success
+2023-05-22 16:44:58.187[info] app start
+2023-05-22 16:44:58.221[info] DB connection success
+2023-05-22 16:44:58.227[info] Sequelize sync success
+2023-05-22 16:45:30.741[info] app start
+2023-05-22 16:45:30.778[info] DB connection success
+2023-05-22 16:45:30.783[info] Sequelize sync success
+2023-05-22 16:46:05.554[info] app start
+2023-05-22 16:46:05.590[info] DB connection success
+2023-05-22 16:46:05.595[info] Sequelize sync success
+2023-05-22 16:46:31.452[info] app start
+2023-05-22 16:46:31.478[info] DB connection success
+2023-05-22 16:46:31.484[info] Sequelize sync success
+2023-05-22 16:47:02.310[info] app start
+2023-05-22 16:47:02.337[info] DB connection success
+2023-05-22 16:47:02.343[info] Sequelize sync success
+2023-05-22 16:47:42.457[info] app start
+2023-05-22 16:47:42.496[info] DB connection success
+2023-05-22 16:47:42.501[info] Sequelize sync success
+2023-05-22 16:47:58.244[info] (department.info.params) {"id":"1"}
+2023-05-22 16:47:58.263[debug] (departmentService.info) {"id":1,"name":"개발팀12","code":"dev","description":null,"createdAt":"2023-05-22T06:55:32.000Z","updatedAt":"2023-05-22T06:55:32.000Z","deletedAt":null}
+2023-05-22 16:47:58.264[info] (department.info.result) {"id":1,"name":"개발팀12","code":"dev","description":null,"createdAt":"2023-05-22T06:55:32.000Z","updatedAt":"2023-05-22T06:55:32.000Z","deletedAt":null}
+2023-05-22 17:04:23.992[info] app start
+2023-05-22 17:04:24.032[info] DB connection success
+2023-05-22 17:04:24.038[info] Sequelize sync success
+2023-05-22 17:04:43.471[info] app start
+2023-05-22 17:04:43.497[info] DB connection success
+2023-05-22 17:04:43.503[info] Sequelize sync success
+2023-05-22 17:05:24.984[info] app start
+2023-05-22 17:05:25.020[info] DB connection success
+2023-05-22 17:05:25.025[info] Sequelize sync success
+2023-05-22 17:06:12.128[info] app start
+2023-05-22 17:06:12.165[info] DB connection success
+2023-05-22 17:06:12.172[info] Sequelize sync success
+2023-05-22 17:09:41.731[info] (department.update.params) {"id":"1","name":"개발팀","code":"updated"}
+2023-05-22 17:09:41.743[debug] (departmentService.edit) {"updatedCount":1}
+2023-05-22 17:09:41.744[info] (department.update.result) {"updatedCount":1}
+2023-05-22 17:09:49.580[info] (department.list.params) {}
+2023-05-22 17:09:49.598[debug] (departmentService.reg) {"count":2,"rows":[{"id":2,"name":"개발팀","code":"dev","createdAt":"2023-05-22T07:04:36.000Z","updatedAt":"2023-05-22T07:04:36.000Z","deletedAt":null},{"id":1,"name":"개발팀","code":"updated","createdAt":"2023-05-22T06:55:32.000Z","updatedAt":"2023-05-22T08:09:41.000Z","deletedAt":null}]}
+2023-05-22 17:13:30.216[info] app start
+2023-05-22 17:13:30.254[info] DB connection success
+2023-05-22 17:13:30.259[info] Sequelize sync success
+2023-05-22 17:13:49.291[info] app start
+2023-05-22 17:13:49.329[info] DB connection success
+2023-05-22 17:13:49.334[info] Sequelize sync success
+2023-05-22 17:14:05.171[info] app start
+2023-05-22 17:14:05.204[info] DB connection success
+2023-05-22 17:14:05.210[info] Sequelize sync success
+2023-05-22 17:14:29.346[info] app start
+2023-05-22 17:14:29.372[info] DB connection success
+2023-05-22 17:14:29.378[info] Sequelize sync success
+2023-05-22 17:14:40.583[info] app start
+2023-05-22 17:14:40.611[info] DB connection success
+2023-05-22 17:14:40.616[info] Sequelize sync success
+2023-05-22 17:14:52.930[info] app start
+2023-05-22 17:14:52.957[info] DB connection success
+2023-05-22 17:14:52.963[info] Sequelize sync success
