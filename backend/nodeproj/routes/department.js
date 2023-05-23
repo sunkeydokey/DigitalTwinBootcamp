@@ -3,9 +3,10 @@ const express = require('express');
 const router = express.Router();
 const logger = require('../lib/logger');
 const departmentService = require('../service/departmentService');
+const { isLoggedIn } = require('../lib/middleware');
 
 // 등록
-router.post('/', async (req, res) => {
+router.post('/', isLoggedIn, async (req, res) => {
   try {
     const params = {
       name: req.body.name,

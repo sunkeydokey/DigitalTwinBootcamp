@@ -50,8 +50,8 @@ const dao = {
   selectInfo(params) {
     return new Promise((resolve, reject) => {
       Department.findByPk(params.id)
-        .then((selectedList) => {
-          resolve(selectedList);
+        .then((selected) => {
+          resolve(selected);
         })
         .catch((err) => {
           reject(err);
