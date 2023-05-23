@@ -15,7 +15,7 @@ dotenv.config();
 const { NODE_ENV, PORT, LOGGER_LEVEL } = process.env;
 
 const indexRouter = require('./routes/index');
-const usersRouter = require('./routes/users');
+const usersRouter = require('./routes/user');
 
 const app = express();
 logger.info('app start');
