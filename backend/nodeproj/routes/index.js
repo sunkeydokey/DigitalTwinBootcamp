@@ -1,6 +1,7 @@
 const express = require('express');
 const logger = require('../lib/logger');
 const departmentRouter = require('./department');
+const userRouter = require('./user');
 
 const router = express.Router();
 
@@ -43,5 +44,6 @@ router.get('/plus', (req, res, next) => {
 });
 
 router.use('/departments', departmentRouter);
+router.use('/users', userRouter);
 
 module.exports = router;
