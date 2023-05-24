@@ -10,7 +10,10 @@ const middleware = {
 
       if (decoded) {
         const newToken = tokenUtil.makeToken(decoded);
-        res.set('token', newToken);
+        res.set({
+          token: newToken,
+          userid: decoded.id,
+        });
 
         next();
       } else {
