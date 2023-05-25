@@ -74,7 +74,7 @@ router.get('/:id', async (req, res) => {
 });
 
 // 수정
-router.put('/:id', async (req, res) => {
+router.put('/:id', isLoggedIn, async (req, res) => {
   try {
     const params = {
       id: req.params.id,
@@ -93,7 +93,7 @@ router.put('/:id', async (req, res) => {
 });
 
 // 삭제
-router.delete('/:id', async (req, res) => {
+router.delete('/:id', isLoggedIn, async (req, res) => {
   try {
     const params = {
       id: req.params.id,

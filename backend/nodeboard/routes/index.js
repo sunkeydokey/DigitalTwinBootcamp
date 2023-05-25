@@ -6,6 +6,7 @@ const boardRouter = require('./board');
 const postRouter = require('./post');
 const commentRouter = require('./comment');
 const uploadRouter = require('./upload');
+const weatherRouter = require('./weather');
 
 const router = express.Router();
 
@@ -20,5 +21,6 @@ router.use('/boards', boardRouter);
 router.use('/posts', postRouter);
 router.use('/comments', commentRouter);
 router.use('/uploads', uploadRouter);
+router.use('/weathers', weatherRouter);
 
 module.exports = router;
